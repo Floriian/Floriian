@@ -8,7 +8,7 @@ I’ve interested in programming when I was 13. Started with Pawn scripting for 
 
 * 🌍  I'm based in Hungary
 * ✉️  You can contact me at [lovasifloriian@outlook.hu](mailto:lovasifloriian@outlook.hu)
-* 🧠  I'm learning Java & Java Spring bot / NestJS. 
+* 🧠  I'm learning NestJS. 
 
 ### Skills
 
